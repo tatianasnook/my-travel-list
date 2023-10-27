@@ -10,13 +10,41 @@ body {
   align-items: center;
   margin-bottom: 40px;
 }
-.container{
-  max-width: 1200px;
-  padding: 40px 20px;
-}
 h1 {
   font-family: 'Merriweather', serif;
   text-transform: capitalize;
+}
+.slidesBox{
+  position: relative;
+  margin-top: 40px;
+}
+.arrow{
+  border: none;
+  position: absolute;
+  background-color: transparent;
+}
+.one {
+  top: 45%;
+}
+.two {
+  top: 45%;
+  right: 0;
+}
+.slidePicture{
+  width: 800px;
+  height: 600px;
+  object-fit: cover;
+  object-position: center;
+}
+.main {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+
+}
+.container{
+  max-width: 500px;
+  padding: 40px 20px 0 20px;
 }
 h2 {
   letter-spacing: 2px;
@@ -44,6 +72,7 @@ p{
 }
 .deleteBtn{
   background-color: #801818;
+  margin-top: 40px;
 }
 .deleteBtn:hover{
   background-color: #611111;
