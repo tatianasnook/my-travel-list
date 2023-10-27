@@ -13,9 +13,12 @@
 ## Description
 The Travel List App provides users with a list of future destinations I would like to visit. It includes the following features:
 1. **Pictures Carousel**: A carousel displaying slides of 5 pictures of different destinations. It features next and back arrows for easy navigation.
+
 2. **Description of the Travel Sites**: Each destination comes with a description that users can choose to expand or collapse.
+
 3. **Done Button**: Users can mark a location as completed by clicking on it, which visually removes it from the screen.
-4. **Deleting All Button**: Users can remove all travel destinations from the screen when they are no longer needed or when a trip has been completed.
+
+4. **Deleting All Button**: Users can remove all travel destinations from the screen when they are no longer needed or when all trips have been completed.
 
 ## Setup/Installation Requirements
 1. Before you start, ensure you have the following prerequisites:
