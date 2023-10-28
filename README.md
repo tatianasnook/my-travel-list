@@ -24,7 +24,7 @@ The Travel List App provides users with a list of future destinations I would li
 1. Before you start, ensure you have the following prerequisites:
 Make sure you have Node.js installed on your computer. You can download it from nodejs.org.
 
-2. Clone or download this repository to your local machine. Run in Terminal: git clone https://github.com/your-username/my-todo-list.git
+2. Clone or download this repository to your local machine. Run in Terminal: git clone https://github.com/your-username/my-travel-list.git
 
 3. Navigate to the project directory. Run: cd my-todo-list
 
