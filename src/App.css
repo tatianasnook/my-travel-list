@@ -14,10 +14,12 @@ body {
 h1 {
   font-family: 'Merriweather', serif;
   text-transform: capitalize;
+  margin-top: 40px;
 }
 .slidesBox{
   position: relative;
   margin-top: 40px;
+  width: 100%;
 }
 .arrow{
   border: none;
@@ -33,19 +35,12 @@ h1 {
   right: 0;
 }
 .slidePicture{
-  width: 800px;
-  height: 600px;
+  width: 100%;
   object-fit: cover;
   object-position: center;
 }
-.main {
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-
-}
 .container{
-  max-width: 500px;
+  max-width: 700px;
   padding: 40px 20px 0 20px;
 }
 h2 {
@@ -85,10 +80,4 @@ p{
   font-size: 18px;
   color: #0071c2;
   cursor: pointer;
-}
-@media all and (max-width: 799px){
-  .slidePicture{
-    width: 100%;
-    height: 500px;
-  }
 }

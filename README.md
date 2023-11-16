@@ -12,7 +12,7 @@
 
 ## Description
 The Travel List App provides users with a list of future destinations I would like to visit. It includes the following features:
-1. **Pictures Carousel**: A carousel displaying slides of 5 pictures of different destinations. It features next and back arrows for easy navigation.
+1. **Pictures Carousel**: A carousel displaying slides of 3 pictures of each destinations. It features next and back arrows for easy navigation.
 
 2. **Description of the Travel Sites**: Each destination comes with a description that users can choose to expand or collapse.
 
